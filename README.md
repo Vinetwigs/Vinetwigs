@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on stres
+- 🔭 I’m currently working on genius-api-go
 - 🌱 I’m currently learning Go
 
 
