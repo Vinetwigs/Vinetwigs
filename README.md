@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on genius-api-go
-- 🌱 I’m currently learning Go
+- 🔭 I’m currently working on vcube-renderer
+- 🌱 I’m currently learning V
 
 
 ## 🌐Socials
